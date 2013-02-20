@@ -12,6 +12,7 @@ To add:
 Sources:
 
 http://www.amazon.com/gp/product/0691151644/
+
 http://mathoverflow.net/questions/9754/magic-trick-based-on-deep-mathematics
 
 "Mark described a card trick of Diaconis where he takes a deck of cards, gives it to a person at the end of the room, lets this person “cut” the deck and replace the two parts, then asks many other people do the same and then asks people to take one card each from the deck. Next Diaconis is trying to read the mind of the five people with the last cards by asking them to concentrate on the cards they have. To help him a little against noise coming from other minds he asks those with black cards to step forward. Then he guesses the cards each of the five people have.
