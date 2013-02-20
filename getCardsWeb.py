@@ -1,6 +1,3 @@
-import math
-import sys
-
 # change to take sequence as argument
 def doAll(userSeq):
 	# get
@@ -37,9 +34,3 @@ def outputCards(sequence, numCards):
 		results += info,
 
 	return "<br>".join(results)
-
-def main():
-	doAll()
-
-if __name__ == "__main__":
-	main()
